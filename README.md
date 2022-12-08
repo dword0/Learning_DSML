@@ -27,6 +27,63 @@ Repository with the notes used in learning Data-science and Machine Learning
 </details>
 
 <details>
+<summary>Common Core Tools</summary>
+  <br>
+  <ol>
+<details>
+    <summary>SQL - 01 - Intro to Database & SQL</summary>
+      <ul type="circle">
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/ipad_sql_01.pdf">Lecture Notes</a></li>
+      </ul>
+  </details>
+  <details>
+    <summary>SQL - 02 - Filtering and Subqueries</summary>
+      <ul type="circle">
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Sol_02_fittering___Subqueries.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Mysql_Installation_and_Setup__2_.pdf">MySQL Installation</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Execution_order_in_SQL__1_.pdf">Execution Order in SQL</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/SQL_02___Filtering_and_Subqueries__3_.pdf">Lecture Queries</a></li>
+      </ul>
+  </details>
+    <details>
+    <summary>SQL - 03 - Joins</summary>
+      <ul type="circle">
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Joins.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/joins_cheat_sheet_a4.pdf">Joins Cheat Sheet</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/standard_sql_functions_cheat_sheet_a4.pdf">Standard SQL Cheat Sheet</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/sql_basics_cheat_sheet_a4.pdf">SQL Basics Cheat Sheet</a></li>
+      </ul>
+  </details>
+    <details>
+    <summary>Numpy-2 - Fitbit User Analysis</summary>
+      <ul type="circle">
+        <li><a href="">Lecture Notes</a></li>
+        <li><a href="">Notes</a></li>
+        <li><a href="">Post Read</a></li>
+      </ul>
+  </details>
+    <details>
+    <summary>Numpy-2 - Fitbit User Analysis</summary>
+      <ul type="circle">
+        <li><a href="">Lecture Notes</a></li>
+        <li><a href="">Notes</a></li>
+        <li><a href="">Post Read</a></li>
+      </ul>
+  </details>
+    <details>
+    <summary>Numpy-2 - Fitbit User Analysis</summary>
+      <ul type="circle">
+        <li><a href="">Lecture Notes</a></li>
+        <li><a href="">Notes</a></li>
+        <li><a href="">Post Read</a></li>
+      </ul>
+  </details>
+  </ol>
+</details>
+
+
+
+<details>
 <summary>Common Core Foundations</summary>
   <br>
   <ol>
