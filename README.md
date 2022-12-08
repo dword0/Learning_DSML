@@ -62,6 +62,22 @@ Repository with the notes used in learning Data-science and Machine Learning
         <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/PostRead_Numpy4.ipynb">Post Read</a></li>
       </ul>
   </details> 
+    <details>
+    <summary>Pandas-1 - McKinsey LifeExpentancy Insights</summary>
+      <ul type="circle">
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/LectureNotes_Pandas1_Mckinsey.ipynb___Colaboratory.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_01_McKinsey_RevisionNotes.ipynb">Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_01_PostRead.ipynb">Post Read</a></li>
+      </ul>
+  </details>
+    <details>
+    <summary>Pandas-2 - IMDB Director Insights</summary>
+      <ul type="circle">
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/LectureNotes_Pandas2_Mckinsey_contd.ipynb___Colaboratory.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_2_RevisionNotes.ipynb">Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_02_PreRead_Joins.ipynb">Pre Read</a></li>
+      </ul>
+  </details>
   </ol>
 </details>
 
