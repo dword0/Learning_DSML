@@ -55,27 +55,25 @@ Repository with the notes used in learning Data-science and Machine Learning
       </ul>
   </details>
     <details>
-    <summary>Numpy-2 - Fitbit User Analysis</summary>
+    <summary>SQL - 04 - Group By & Aggregation Functions</summary>
       <ul type="circle">
-        <li><a href="">Lecture Notes</a></li>
-        <li><a href="">Notes</a></li>
-        <li><a href="">Post Read</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/groupby_ipad.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/SQL_04___GROUP_BY_Aggregation__4_.pdf">Lecture Queries</a></li>
       </ul>
   </details>
     <details>
-    <summary>Numpy-2 - Fitbit User Analysis</summary>
+    <summary>SQL - 05 - Window Functions</summary>
       <ul type="circle">
-        <li><a href="">Lecture Notes</a></li>
-        <li><a href="">Notes</a></li>
-        <li><a href="">Post Read</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/WINDOW_FUNCTIONS__1_.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Window_Functions_Cheat_Sheet.pdf">Window Functions Cheat Sheet</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/SQL_05___Window_fns__3_.pdf">Lecture Queries</a></li>
       </ul>
   </details>
     <details>
-    <summary>Numpy-2 - Fitbit User Analysis</summary>
+    <summary>SQL - 06 - Date & Time Functions</summary>
       <ul type="circle">
-        <li><a href="">Lecture Notes</a></li>
-        <li><a href="">Notes</a></li>
-        <li><a href="">Post Read</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/DATE___TIME_FUNCTIONS.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/SQL_06___Window_and_Date___Time_Functions__3_.pdf">Lecture Queries</a></li>
       </ul>
   </details>
   </ol>
