@@ -3,6 +3,7 @@ Repository with the notes used in learning Data-science and Machine Learning
 
 <details>
 <summary>Introduction to Problem Solving (Intermediate) 2</summary>
+  <br>
   <ol>
   <details>
     <summary>DSML Intermediate: OOPS - 1</summary>
