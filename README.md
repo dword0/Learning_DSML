@@ -33,6 +33,7 @@ Repository with the notes used in learning Data-science and Machine Learning
 <details>
     <summary>SQL - 01 - Intro to Database & SQL</summary>
       <ul type="circle">
+        <li><a href="https://www.scaler.com/academy/mentee-dashboard/class/41990/session?joinSession=1">Lecture</a></li></li>
         <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/ipad_sql_01.pdf">Lecture Notes</a></li>
       </ul>
   </details>
