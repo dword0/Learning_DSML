@@ -27,7 +27,7 @@ Repository with the notes used in learning Data-science and Machine Learning
 </details>
 
 <details>
-<summary>Common Core Tools</summary>
+<summary>Common Core Tools ( SQL | Tableau | Git )</summary>
   <br>
   <ol>
 <details>
