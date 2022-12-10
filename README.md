@@ -145,6 +145,15 @@ Repository with the notes used in learning Data-science and Machine Learning
         <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_02_PreRead_Joins.ipynb">Pre Read</a></li>
       </ul>
   </details>
+  <details>
+    <summary>Pandas-3 - IMDB Analysis contd.</summary>
+      <ul type="circle">
+        <li><a href="scaler.com/academy/mentee-dashboard/class/48365/session?joinSession=1">Lecture</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_3_IMDBInsights.ipynb___Colaboratory.pdf">Lecture Notes</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Revision_Notes_Pandas_3.ipynb">Post Read</a></li>
+        <li><a href="https://github.com/dword0/Learning_DSML/blob/main/Resources/Pandas_03_PreRead_Groupby.ipynb">Pre Read</a></li>
+      </ul>
+  </details>
   </ol>
 </details>
 
